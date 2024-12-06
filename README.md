@@ -14,6 +14,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+
 </div>
 
 ###
@@ -37,18 +40,17 @@
 
 ## 📫 Contato  
 <div align="left">
-  <a href="https://www.linkedin.com/in/joaosantosdevfront" target="_blank">
+  <a href="https://www.linkedin.com/in/joaosantosdevfront">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
   </a>
-  <a href="mailto:jvadls.93@gmail.com" target="_blank">
+  <a href="mailto:jvadls.93@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo" />
   </a>
-  <a href="https://www.instagram.com/seu_usuario_instagram" target="_blank">
+  <a href="https://www.instagram.com/jvalsantos/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo" />
   </a>
 </div>  
 
----
 
 Sinta-se à vontade para explorar meus repositórios e projetos! 🚀  
 
@@ -58,3 +60,4 @@ Sinta-se à vontade para explorar meus repositórios e projetos! 🚀
 
 ###
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22m62ytshg7r45oc42djs5scq&unique={true|1|on|yes})
