@@ -22,7 +22,7 @@
 ###
 
 ## 🧑‍💻 Sobre mim  
-- 💻 **Estudante de Análise e Desenvolvimento de Sistemas** pelo SENAC.  
+- 💻 **Análista e Desenvolvedor de Sistemas** pelo SENAC.  
 - 🛠️ Desenvolvedor com experiência em **JavaScript, C#, HTML, CSS e React**.  
 - 🚀 Apaixonado por criar soluções práticas e funcionais.  
 
